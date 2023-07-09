@@ -1,7 +1,7 @@
 # Travel List Project (Add Items)
 
 This is a travel list project built using React.js that allows users to add new items to their travel list. Also they have three sorting ways: By input,By Description, By Packed status. Also you can remove item or toggle item if you add it or not in the list.
-![image](https://github.com/Ahmed-Elgendy25/travel-list/assets/108876019/3bac12f1-b824-4502-8a64-c48143d2ad9c)
+![image](https://github.com/Ahmed-Elgendy25/travel-list/assets/108876019/8a8d729d-dd81-4ce2-aa7a-ca1587bac053)
 
 
 ## Installation
